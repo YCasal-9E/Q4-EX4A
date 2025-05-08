@@ -1,0 +1,7 @@
+.container {
+  background: rgba(213, 204, 194, 0.8) !important;
+  border-radius: 20px;
+  padding: 2rem;
+  max-width: 700px !important;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
